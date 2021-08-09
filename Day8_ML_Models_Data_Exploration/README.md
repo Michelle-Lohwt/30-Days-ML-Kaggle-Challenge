@@ -5,4 +5,4 @@ Tutorial: [Basic Data Exploration](https://www.kaggle.com/dansbecker/basic-data-
 Challenge: [Exercise: Basic Data Exploration](https://www.kaggle.com/michelleloh/ml-challenge-day-8-explore-your-data)<br>
 
 Challenger: Michelle Loh <br>
-Challenge period: 9/8/2021
+Challenge period: 10/8/2021
